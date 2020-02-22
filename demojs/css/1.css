@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+ul {
+    margin-top: 42px;
+    float: left;
+    margin-left: 20px;
+    padding: 0%;
+}
+ul li{
+    list-style: none;
+    border: 2px #333 solid   ;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+ul li a{
+    width: 100px;
+   
+    
+}
+
+ul li a img{
+    width: 70px;
+    cursor: pointer;
+    
+}
+#main{
+    float: left;
+}

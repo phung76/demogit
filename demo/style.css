@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    text-transform: (-50%,50%);
+  
+}
+.container{
+    display: block;
+}
+.contdown{
+    display: block;
+}
+#ngocphung1{
+color: black;
+background: black;
+}
